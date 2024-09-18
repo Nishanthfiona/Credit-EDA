@@ -11,7 +11,6 @@ This project involves performing an Exploratory Data Analysis (EDA) on a bank lo
 - [Analysis Steps](#analysis-steps)
 - [Results and Findings](#results-and-findings)
 - [Conclusion](#conclusion)
-- [How to Run the Code](#how-to-run-the-code)
 - [Notes](#notes)
 
 ## Introduction
@@ -75,25 +74,6 @@ The primary objectives of this EDA are:
 ## Conclusion
 
 The EDA revealed several key factors that are strongly associated with loan defaults, such as low income, Work type etc. These insights can be used to enhance predictive models for identifying potential defaulters, thereby improving the bank's risk management strategies.
-
-## How to Run the Code
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Nishanthfiona/Credit-EDA.git
-    cd Credit-EDA
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook
-    ```
-    - Open the `Bank_Loan_EDA.ipynb` file and run the cells sequentially.
 
 ## Notes
 

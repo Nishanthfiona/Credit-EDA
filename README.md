@@ -80,8 +80,8 @@ The EDA revealed several key factors that are strongly associated with loan defa
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/bank-loan-eda.git
-    cd bank-loan-eda
+    git clone https://github.com/Nishanthfiona/Credit-EDA.git
+    cd Credit-EDA
     ```
 
 2. **Install dependencies**:
